@@ -1,0 +1,1 @@
+This is a mini viz app on Indian census data using streamlit and plotly.
